@@ -1,0 +1,11 @@
+c:\users\andriy\documents\visual studio 2013\Projects\Convertor\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\bin\Debug\Convertor.exe
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\bin\Debug\Convertor.pdb
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\obj\Debug\Convertor.Form1.resources
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\obj\Debug\Convertor.csproj.GenerateResource.Cache
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\obj\Debug\Convertor.exe
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\obj\Debug\Convertor.pdb
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andriy\documents\visual studio 2013\Projects\Convertor\Convertor\bin\Debug\Newtonsoft.Json.xml
